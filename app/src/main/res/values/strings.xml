@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flags Challenge</string>
+    <string name="schedule">CHALLENGE SCHEDULE</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="seconds">Second</string>
+    <string name="_0">0</string>
+    <string name="save">Save</string>
+    <string name="will_start">WILL START IN \n 00:20</string>
+    <string name="guess_country">GUESS THE COUNTRY FROM THE FLAG?</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="wrong">Wrong</string>
+    <string name="correct">Correct</string>
+</resources>

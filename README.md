@@ -16,4 +16,5 @@ Flags Challenge App Description The Flags Challenge app is a fun and interactive
   - Geography enthusiasts
   - Travelers
   - Anyone looking to learn more about countries and their flags
->> Download the Flags Challenge app today and test your geography skills! <<
+    
+Download the Flags Challenge app today and test your geography skills!

@@ -16,4 +16,4 @@ Game over screen: View your final score at the end of the game.
 Geography enthusiasts
 Travelers
 Anyone looking to learn more about countries and their flags
-# Download the Flags Challenge app today and test your geography skills!
+Download the Flags Challenge app today and test your geography skills!
